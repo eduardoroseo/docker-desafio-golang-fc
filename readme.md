@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://go.dev/images/gophers/ladder.svg" />
+    <img src="https://go.dev/images/gophers/ladder.svg" height="200"/>
     <h2>Desafio Full Cycle - Docker</h2>
 </p>
 
